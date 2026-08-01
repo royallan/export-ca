@@ -83,4 +83,4 @@ and your organization's authorization requirements when exporting policy data.
 
 ## License
 
-(fill in, e.g. MIT)
+Released under the MIT License. Free to use, modify and distribute.
